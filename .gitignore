@@ -106,3 +106,9 @@ dist
 # Ignore vscode
 **/.vscode
 
+# Ignore data backup
+**/data
+
+* Ignore package.lock
+**/package-lock.json
+
